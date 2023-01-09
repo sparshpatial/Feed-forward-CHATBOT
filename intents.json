@@ -1,0 +1,181 @@
+{
+  "'intents":
+  [
+    {
+      "tag": "greeting",
+      "patterns":
+      [
+        "Hi",
+        "Hello",
+        "Greetings",
+        "How are you",
+        "Is anyone there",
+        "Knock Knock",
+        "Is anyone there"
+      ],
+      "responses":
+      [
+        "Hey :)",
+        "Hello, thanks for visiting :)",
+        "Hi, What can I do for you ?",
+        "Hi there, how can I help you "
+      ]
+    },
+
+    {
+      "tag": "",
+      "patterns":
+      [
+       
+      ],
+      "responses":
+      [
+
+      ]
+         
+    },
+    
+    {
+      "tag": "",
+      "patterns":
+      [
+       
+      ],
+      "responses":
+      [
+
+      ]
+         
+    },
+    
+    {
+      "tag": "",
+      "patterns":
+      [
+       
+      ],
+      "responses":
+      [
+
+      ]
+         
+    },
+    
+    {
+      "tag": "",
+      "patterns":
+      [
+       
+      ],
+      "responses":
+      [
+
+      ]
+         
+    },
+    
+    {
+      "tag": "",
+      "patterns":
+      [
+       
+      ],
+      "responses":
+      [
+
+      ]
+         
+    },
+    
+    {
+      "tag": "",
+      "patterns":
+      [
+       
+      ],
+      "responses":
+      [
+
+      ]
+         
+    },
+    
+    {
+      "tag": "",
+      "patterns":
+      [
+       
+      ],
+      "responses":
+      [
+
+      ]
+         
+    },
+    
+    {
+      "tag": "",
+      "patterns":
+      [
+       
+      ],
+      "responses":
+      [
+
+      ]
+         
+    },
+    
+    {
+      "tag": "",
+      "patterns":
+      [
+       
+      ],
+      "responses":
+      [
+
+      ]
+         
+    },
+    
+    {
+      "tag": "",
+      "patterns":
+      [
+       
+      ],
+      "responses":
+      [
+
+      ]
+         
+    },
+    
+    {
+      "tag": "",
+      "patterns":
+      [
+       
+      ],
+      "responses":
+      [
+
+      ]
+         
+    },
+    
+    {
+      "tag": "",
+      "patterns":
+      [
+       
+      ],
+      "responses":
+      [
+
+      ]
+         
+    },
+  ]  
+}
