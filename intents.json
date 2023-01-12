@@ -11,7 +11,7 @@
         "How are you",
         "Is anyone there",
         "Knock Knock",
-        "Is anyone there"
+        "Hey"
       ],
       "responses":
       [
@@ -23,159 +23,86 @@
     },
 
     {
-      "tag": "",
+      "tag": "goodbye",
       "patterns":
       [
-       
+       "Bye",
+       "See you later",
+       "Goodbye",
+       "Will talk to you later"
       ],
       "responses":
       [
-
+        "See you later, thanks for visiting",
+        "Have a nice day :)",
+        "Take care",
+        "Bye,come back again soon."
       ]
          
     },
     
     {
-      "tag": "",
+      "tag": "master",
       "patterns":
       [
-       
+       "Who build you ?",
+       "who is your master ?",
+       "who do you work for ?"
       ],
       "responses":
       [
-
+        "Sparsh Patial"
       ]
          
     },
     
     {
-      "tag": "",
+      "tag": "role",
       "patterns":
       [
-       
+       "what can you do ?",
+       "what is your purpose ?",
+       "why are you build ?"
+
       ],
       "responses":
       [
-
+       "I can tell you about myself ",
+       "I can tell you my tech-stack "
       ]
          
     },
     
     {
-      "tag": "",
+      "tag": "tech-stack",
       "patterns":
       [
-       
+       "what is your tech-stack ?",
+       "tell me your tech-stack",
+       "tell me about yourself"
       ],
       "responses":
       [
-
+        " I am WALL-E , I am build using Python, concepts of NLP, JS & Machine Learning."
       ]
          
     },
     
     {
-      "tag": "",
+      "tag": "thanks",
       "patterns":
       [
-       
+       "Thanks",
+       "thank you"
       ],
       "responses":
       [
+        " Any time!",
+        "My pleasure",
+        "happy to help!"
 
       ]
          
-    },
-    
-    {
-      "tag": "",
-      "patterns":
-      [
-       
-      ],
-      "responses":
-      [
-
-      ]
-         
-    },
-    
-    {
-      "tag": "",
-      "patterns":
-      [
-       
-      ],
-      "responses":
-      [
-
-      ]
-         
-    },
-    
-    {
-      "tag": "",
-      "patterns":
-      [
-       
-      ],
-      "responses":
-      [
-
-      ]
-         
-    },
-    
-    {
-      "tag": "",
-      "patterns":
-      [
-       
-      ],
-      "responses":
-      [
-
-      ]
-         
-    },
-    
-    {
-      "tag": "",
-      "patterns":
-      [
-       
-      ],
-      "responses":
-      [
-
-      ]
-         
-    },
-    
-    {
-      "tag": "",
-      "patterns":
-      [
-       
-      ],
-      "responses":
-      [
-
-      ]
-         
-    },
-    
-    {
-      "tag": "",
-      "patterns":
-      [
-       
-      ],
-      "responses":
-      [
-
-      ]
-         
-    },
+    }
   ]  
 }
