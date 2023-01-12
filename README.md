@@ -1,6 +1,11 @@
 # Feed-forward-CHATBOT
 
-- personalized chatbot
-- using feedforward NeuNet
-- Describes who am I !
-- uses NLP
+- A project to learn how  to make a learning chatbot.
+- using feedforward NeuNet.
+- uses NLP.
+
+## Role:
+- traning based on json file.
+
+### Ongoing....
+
