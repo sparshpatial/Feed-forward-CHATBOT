@@ -23,6 +23,6 @@ a=tokenize(a)
 print(a)
 
 #test for the stemming
-words=["Organise","organises","organisation"]
+words=["history","historical","histogram"]
 stemmed_words=[stemming(w)for w in words]
 print(stemmed_words)
